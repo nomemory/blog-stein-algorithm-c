@@ -1,4 +1,4 @@
-"Academic" implementation of the Stein Algorithm (Binary GCD)
+"Academic" implementation of the [Stein's Algorithm (Binary GCD)](https://en.wikipedia.org/wiki/Binary_GCD_algorithm?oldformat=true) in `C`
 
 # Usage:
 
